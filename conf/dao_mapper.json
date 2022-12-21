@@ -1,0 +1,7 @@
+{"DAO_DEPOTDBDAO":"dao.depotdbdao.DepotDBDao",
+  "DAO_TABLESPACEDAO":"dao.tablespacedao.TablespaceDao",
+  "DAO_JOBMANAGERDAO":"dao.jobmanagerdao.JobManagerDao",
+  "DAO_DBAUDITDAO":"dao.dbauditdao.DBAuditDao",
+  "DAO_SHAREPLEXMONITORDAO": "dao.shareplexmonitordao.ShareplexMonitorDao",
+  "DAO_CONFIGDBDAO": "dao.configdbdao.ConfigDBDao",
+  "DAO_CRONJOBMANAGEMENTDAO": "dao.cronjobmanagementdao.CronjobManagementDao"}

@@ -1,0 +1,760 @@
+[Wed, 20 Apr 2022 16:49:41][shareplexRealDelayJob.py][line:38][4581705216][ERROR] 'shareplexRealDelayJob' object has no attribute 'src_dbs'
+[Thu, 21 Apr 2022 16:27:34][shareplexDelayToDepotJob.py][line:66][4628416000][ERROR] ORA-01747: invalid user.table.column, table.column, or column specification
+[Thu, 21 Apr 2022 16:33:22][shareplexDelayToDepotJob.py][line:66][4792133120][ERROR] ORA-01747: invalid user.table.column, table.column, or column specification
+[Thu, 21 Apr 2022 16:33:35][shareplexDelayToDepotJob.py][line:66][4583355904][ERROR] ORA-01747: invalid user.table.column, table.column, or column specification
+[Thu, 21 Apr 2022 17:03:51][shareplexRealDelayJob.py][line:50][4750882304][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Thu, 21 Apr 2022 17:04:19][shareplexDelayToDepotJob.py][line:58][4339127808][ERROR] DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+[Thu, 21 Apr 2022 17:47:42][shareplexDelayToDepotJob.py][line:58][4743362048][ERROR] DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+[Thu, 21 Apr 2022 18:05:32][shareplexRealDelayJob.py][line:50][4497552896][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Fri, 22 Apr 2022 14:15:35][shareplexRealDelayJob.py][line:50][4601083392][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Sat, 23 Apr 2022 18:04:53][shareplexRealDelayJob.py][line:51][4492981760][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Sun, 24 Apr 2022 09:45:39][shareplexRealDelayJob.py][line:51][4713022976][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Sun, 24 Apr 2022 09:45:43][shareplexRealDelayJob.py][line:51][4681995776][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Thu, 28 Apr 2022 16:50:34][shareplexRealDelayJob.py][line:51][4433679872][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Thu, 28 Apr 2022 18:42:41][shareplexRealDelayJob.py][line:51][4572771840][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Fri, 06 May 2022 10:42:09][shareplexRealDelayJob.py][line:51][4474828288][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Wed, 08 Jun 2022 15:47:13][shareplexadbmonJob.py][line:66][4639512064][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/Documents/ciscoGithub/wbxdbaudit/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Wed, 08 Jun 2022 15:47:13][shareplexadbmonJob.py][line:364][4639512064][ERROR] DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/Documents/ciscoGithub/wbxdbaudit/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+[Wed, 08 Jun 2022 15:47:13][shareplexadbmonJob.py][line:365][4639512064][ERROR] insert wbxadbmon_history or update wbxadbmon fail
+[Thu, 09 Jun 2022 10:36:23][shareplexRealDelayJob.py][line:51][4620867072][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/tnsnames/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Thu, 09 Jun 2022 12:01:04][shareplexRealDelayJob.py][line:51][4534081024][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Thu, 07 Jul 2022 17:55:57][shareplexadbmoncheck.py][line:276][4395185664][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 260, in test_channel
+    ls = self.auditdao.getTrimhost(src_host, tgt_host)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dao/wbxauditdbdao.py", line 1551, in getTrimhost
+    return self.session.execute(SQL).fetchall()
+  File "<string>", line 2, in execute
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1691, in execute
+    conn = self._connection_for_bind(bind)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1532, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3204, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3283, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3253, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2100, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Stack (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 132, in <module>
+    hasError = run(jobname,Job,*args)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/jobmonitor.py", line 21, in __call__
+    hasError = self.func(*args, **kwargs)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 91, in run
+    hasError = Job.start()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 29, in start
+    self.main()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 34, in main
+    res = self.adbmoncheck(self.port,self.src_db,self.src_host,self.tgt_db,self.tgt_host,self.replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 57, in adbmoncheck
+    channel_status = self.test_channel(port, src_db, src_host, tgt_db, tgt_host, replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 276, in test_channel
+    logger.error(e, exc_info=e, stack_info=True)
+[Thu, 07 Jul 2022 17:55:57][shareplexadbmoncheck.py][line:62][4395185664][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 57, in adbmoncheck
+    channel_status = self.test_channel(port, src_db, src_host, tgt_db, tgt_host, replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 277, in test_channel
+    raise e
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 260, in test_channel
+    ls = self.auditdao.getTrimhost(src_host, tgt_host)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dao/wbxauditdbdao.py", line 1551, in getTrimhost
+    return self.session.execute(SQL).fetchall()
+  File "<string>", line 2, in execute
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1691, in execute
+    conn = self._connection_for_bind(bind)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1532, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3204, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3283, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3253, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2100, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Stack (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 132, in <module>
+    hasError = run(jobname,Job,*args)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/jobmonitor.py", line 21, in __call__
+    hasError = self.func(*args, **kwargs)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 91, in run
+    hasError = Job.start()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 29, in start
+    self.main()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 34, in main
+    res = self.adbmoncheck(self.port,self.src_db,self.src_host,self.tgt_db,self.tgt_host,self.replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 62, in adbmoncheck
+    logger.error(str(e), exc_info=e, stack_info=True)
+[Thu, 07 Jul 2022 17:57:24][shareplexadbmoncheck.py][line:377][4410164736][ERROR] get_db_tns error occurred
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00936: missing expression
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 349, in get_db_tns
+    rows = self.auditdao.getOneDBTnsInfo(db_name)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dao/wbxauditdbdao.py", line 1545, in getOneDBTnsInfo
+    list = self.session.execute(SQL, {"db_name": db_name}).fetchall()
+  File "<string>", line 2, in execute
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1692, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1614, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1481, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1845, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2026, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00936: missing expression
+[SQL: 
+                     with tmp as (
+               select distinct di.db_name, di.service_name,di.listener_port,ii.trim_host,hi.scan_ip1,hi.scan_ip2,hi.scan_ip3,di.db_type
+               from database_info di ,instance_info ii,host_info hi
+               where di.db_name= ii.db_name
+               and di.trim_host = ii.trim_host
+               and ii.host_name = hi.host_name
+               and di.db_type in ('PROD','BTS_PROD')
+               and hi.scan_ip1 is not null
+               order by di.db_name,trim_host
+               )
+               select * from (
+               select tmp.*, row_number() over(PARTITION BY db_name,trim_host order by db_name,trim_host ) as rn from  tmp
+               ) where rn = 1 and db_name=:db_name order by order by db_type desc
+                      ]
+[parameters: {'db_name': 'RACGDIAG'}]
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Stack (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 132, in <module>
+    hasError = run(jobname,Job,*args)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/jobmonitor.py", line 21, in __call__
+    hasError = self.func(*args, **kwargs)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 91, in run
+    hasError = Job.start()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 29, in start
+    self.main()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 34, in main
+    res = self.adbmoncheck(self.port,self.src_db,self.src_host,self.tgt_db,self.tgt_host,self.replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 57, in adbmoncheck
+    channel_status = self.test_channel(port, src_db, src_host, tgt_db, tgt_host, replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 295, in test_channel
+    self.opt_splex_monitor_abd("delete", src_dbid, port, schemaname, src_schema_password, table_name, direction,
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 175, in opt_splex_monitor_abd
+    db_tns_info = self.get_db_tns(dbid)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 377, in get_db_tns
+    logger.error("get_db_tns error occurred", exc_info=e, stack_info=True)
+[Thu, 07 Jul 2022 17:57:25][shareplexadbmoncheck.py][line:340][4410164736][ERROR] (cx_Oracle.DatabaseError) ORA-12154: TNS:could not resolve the connect identifier specified
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: ORA-12154: TNS:could not resolve the connect identifier specified
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 295, in test_channel
+    self.opt_splex_monitor_abd("delete", src_dbid, port, schemaname, src_schema_password, table_name, direction,
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 181, in opt_splex_monitor_abd
+    connect = engine.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3204, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3283, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3253, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2100, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12154: TNS:could not resolve the connect identifier specified
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Stack (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 132, in <module>
+    hasError = run(jobname,Job,*args)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/jobmonitor.py", line 21, in __call__
+    hasError = self.func(*args, **kwargs)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 91, in run
+    hasError = Job.start()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 29, in start
+    self.main()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 34, in main
+    res = self.adbmoncheck(self.port,self.src_db,self.src_host,self.tgt_db,self.tgt_host,self.replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 57, in adbmoncheck
+    channel_status = self.test_channel(port, src_db, src_host, tgt_db, tgt_host, replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 340, in test_channel
+    logger.error(e, exc_info=e, stack_info=True)
+[Thu, 07 Jul 2022 17:57:25][shareplexadbmoncheck.py][line:62][4410164736][ERROR] (cx_Oracle.DatabaseError) ORA-12154: TNS:could not resolve the connect identifier specified
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: ORA-12154: TNS:could not resolve the connect identifier specified
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 57, in adbmoncheck
+    channel_status = self.test_channel(port, src_db, src_host, tgt_db, tgt_host, replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 341, in test_channel
+    raise e
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 295, in test_channel
+    self.opt_splex_monitor_abd("delete", src_dbid, port, schemaname, src_schema_password, table_name, direction,
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 181, in opt_splex_monitor_abd
+    connect = engine.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3204, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3283, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3253, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2100, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12154: TNS:could not resolve the connect identifier specified
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Stack (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 132, in <module>
+    hasError = run(jobname,Job,*args)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/jobmonitor.py", line 21, in __call__
+    hasError = self.func(*args, **kwargs)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 91, in run
+    hasError = Job.start()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 29, in start
+    self.main()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 34, in main
+    res = self.adbmoncheck(self.port,self.src_db,self.src_host,self.tgt_db,self.tgt_host,self.replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 62, in adbmoncheck
+    logger.error(str(e), exc_info=e, stack_info=True)
+[Thu, 07 Jul 2022 17:58:00][shareplexadbmoncheck.py][line:377][4571420160][ERROR] get_db_tns error occurred
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00936: missing expression
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 349, in get_db_tns
+    rows = self.auditdao.getOneDBTnsInfo(db_name)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dao/wbxauditdbdao.py", line 1545, in getOneDBTnsInfo
+    list = self.session.execute(SQL, {"db_name": db_name}).fetchall()
+  File "<string>", line 2, in execute
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1692, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1614, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1481, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1845, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2026, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00936: missing expression
+[SQL: 
+                     with tmp as (
+               select distinct di.db_name, di.service_name,di.listener_port,ii.trim_host,hi.scan_ip1,hi.scan_ip2,hi.scan_ip3,di.db_type
+               from database_info di ,instance_info ii,host_info hi
+               where di.db_name= ii.db_name
+               and di.trim_host = ii.trim_host
+               and ii.host_name = hi.host_name
+               and di.db_type in ('PROD','BTS_PROD')
+               and hi.scan_ip1 is not null
+               order by di.db_name,trim_host
+               )
+               select * from (
+               select tmp.*, row_number() over(PARTITION BY db_name,trim_host order by db_name,trim_host ) as rn from  tmp
+               ) where rn = 1 and db_name=:db_name order by order by db_type desc
+                      ]
+[parameters: {'db_name': 'RACGDIAG'}]
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Stack (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 132, in <module>
+    hasError = run(jobname,Job,*args)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/jobmonitor.py", line 21, in __call__
+    hasError = self.func(*args, **kwargs)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 91, in run
+    hasError = Job.start()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 29, in start
+    self.main()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 34, in main
+    res = self.adbmoncheck(self.port,self.src_db,self.src_host,self.tgt_db,self.tgt_host,self.replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 57, in adbmoncheck
+    channel_status = self.test_channel(port, src_db, src_host, tgt_db, tgt_host, replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 295, in test_channel
+    self.opt_splex_monitor_abd("delete", src_dbid, port, schemaname, src_schema_password, table_name, direction,
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 175, in opt_splex_monitor_abd
+    db_tns_info = self.get_db_tns(dbid)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 377, in get_db_tns
+    logger.error("get_db_tns error occurred", exc_info=e, stack_info=True)
+[Thu, 07 Jul 2022 17:58:00][shareplexadbmoncheck.py][line:340][4571420160][ERROR] (cx_Oracle.DatabaseError) ORA-12154: TNS:could not resolve the connect identifier specified
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: ORA-12154: TNS:could not resolve the connect identifier specified
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 295, in test_channel
+    self.opt_splex_monitor_abd("delete", src_dbid, port, schemaname, src_schema_password, table_name, direction,
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 181, in opt_splex_monitor_abd
+    connect = engine.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3204, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3283, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3253, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2100, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12154: TNS:could not resolve the connect identifier specified
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Stack (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 132, in <module>
+    hasError = run(jobname,Job,*args)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/jobmonitor.py", line 21, in __call__
+    hasError = self.func(*args, **kwargs)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 91, in run
+    hasError = Job.start()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 29, in start
+    self.main()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 34, in main
+    res = self.adbmoncheck(self.port,self.src_db,self.src_host,self.tgt_db,self.tgt_host,self.replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 57, in adbmoncheck
+    channel_status = self.test_channel(port, src_db, src_host, tgt_db, tgt_host, replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 340, in test_channel
+    logger.error(e, exc_info=e, stack_info=True)
+[Thu, 07 Jul 2022 17:58:00][shareplexadbmoncheck.py][line:62][4571420160][ERROR] (cx_Oracle.DatabaseError) ORA-12154: TNS:could not resolve the connect identifier specified
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: ORA-12154: TNS:could not resolve the connect identifier specified
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 57, in adbmoncheck
+    channel_status = self.test_channel(port, src_db, src_host, tgt_db, tgt_host, replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 341, in test_channel
+    raise e
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 295, in test_channel
+    self.opt_splex_monitor_abd("delete", src_dbid, port, schemaname, src_schema_password, table_name, direction,
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 181, in opt_splex_monitor_abd
+    connect = engine.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3204, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3283, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3253, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2100, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3250, in _wrap_pool_connect
+    return fn()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 256, in _do_get
+    return self._create_connection()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12154: TNS:could not resolve the connect identifier specified
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+Stack (most recent call last):
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 132, in <module>
+    hasError = run(jobname,Job,*args)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/jobmonitor.py", line 21, in __call__
+    hasError = self.func(*args, **kwargs)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/dbaudit.py", line 91, in run
+    hasError = Job.start()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 29, in start
+    self.main()
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 34, in main
+    res = self.adbmoncheck(self.port,self.src_db,self.src_host,self.tgt_db,self.tgt_host,self.replication_to)
+  File "/Users/lexing/Documents/ciscoGithub/wbxdbaudit/biz/shareplexadbmoncheck.py", line 62, in adbmoncheck
+    logger.error(str(e), exc_info=e, stack_info=True)
+[Mon, 08 Aug 2022 11:32:25][shareplexRealDelayJob.py][line:51][4661741056][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Tue, 09 Aug 2022 13:43:44][shareplexRealDelayJob.py][line:51][4414162432][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Fri, 11 Nov 2022 19:17:47][shareplexadbmonJob_bts.py][line:63][4681418240][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file), '/Users/lexing/Documents/ciscoGithub/ansible-dbpatch/libclntsh.dylib' (no such file)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+[Wed, 30 Nov 2022 14:55:11][pgsendalert.py][line:44][140704453649600][ERROR] (cx_Oracle.DatabaseError) DPI-1047: Cannot locate a 64-bit Oracle Client library: "dlopen(libclntsh.dylib, 0x0001): tried: 'libclntsh.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OSlibclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file, not in dyld cache), 'libclntsh.dylib' (no such file), '/usr/lib/libclntsh.dylib' (no such file, not in dyld cache)". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
